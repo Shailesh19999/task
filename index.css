@@ -1,0 +1,88 @@
+
+.myimg{
+    width: 125px;
+    
+}
+.navbar-nav{
+  margin-left: 340px;
+}
+
+.heading{
+    margin-top: 200px;
+    margin-left: 40px;
+    font-weight: bold;
+    
+    font-size: 60px;
+}
+.para{
+    margin-top: 30px;
+font-size: 24px;
+text-align: center;
+font-weight: lighter;
+}
+.btn{
+   margin-top: 20px;
+    
+}
+.heading1{
+    margin-top: 100px;
+    margin-left: 40px;
+    font-weight: bold;
+    
+    font-size: 40px;
+}
+.para1{
+    margin-top: 30px;
+font-size: 18px;
+font-weight: lighter;
+}
+  
+.sandy button{
+    margin-top: 100px;
+    width: 200px;
+    margin-left: 240px;
+}
+.home2{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.parah{
+    text-align: center;
+    margin-top: 35px;
+    
+}
+.outerheading{
+    text-align: center;
+    margin-top: 100px;
+}
+.outerpara{
+    text-align: center;
+}
+.heading3{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 90px;
+
+}
+.para3{
+    text-align: center;
+    margin-top: 20px;
+}
+.allbtn{
+    margin-top: 110px;
+}
+.single img{
+    text-align: center;
+    margin-top: 50px;
+}
+.mylogo{
+    text-align: center;
+    margin-top: 50px;
+}
+.myfootr{
+    color: white;
+margin-left: 42%;
+margin-top: 10px;
+    
+}
